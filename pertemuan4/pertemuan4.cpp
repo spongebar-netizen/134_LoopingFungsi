@@ -12,6 +12,7 @@ int main() {
 
     string arr[5];
 
+
     for (i = 0; i < 5; i++) {
         cout << "Masukkan nickname = ";
         cin >> arr[i];
